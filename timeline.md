@@ -27,6 +27,4 @@
      </li>
   {% endfor %}
 </ul>
-
-
 </section>
