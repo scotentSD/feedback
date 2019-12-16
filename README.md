@@ -1,7 +1,7 @@
 ---
 layout: post              # Don't change this from "post"
 title: Welcome            # Title to show on the page
-initials: do              # initials of person who did/uploaded the research
+
 ---
 
 # Feedback from customer feedback 
