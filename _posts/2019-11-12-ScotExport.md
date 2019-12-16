@@ -10,7 +10,7 @@ display_date: 12th Dec 2019
 **Scot Export Event**
 - Nov 12th 2019 at the Glasgow Technology Innovation Centre
 
-**Summary
+**Summary**
 - We asked exporters about feedback emails, offsite links, complaint handling preferences and Assisted Digital
 
 <!--more-->
