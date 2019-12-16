@@ -56,7 +56,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   margin: 10px 0;
   font-weight: 700;
-  color:#222222;
+  color:#243e44;
   font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
   letter-spacing: -1px;
 }
@@ -98,7 +98,7 @@ footer p {
 
 a {
   text-decoration: none;
-  color: #0F79D0;
+  color: #00427f;
   text-shadow: none;
 
   transition: color 0.5s ease;
@@ -267,7 +267,7 @@ Full-Width Styles
 }
 
 #forkme_banner {
-  display: block;
+  display: none;
   position: absolute;
   top:0;
   right: 10px;
@@ -282,12 +282,12 @@ Full-Width Styles
 }
 
 #header_wrap {
-  background: #212121;
-  background: -moz-linear-gradient(top, #373737, #212121);
-  background: -webkit-linear-gradient(top, #373737, #212121);
-  background: -ms-linear-gradient(top, #373737, #212121);
-  background: -o-linear-gradient(top, #373737, #212121);
-  background: linear-gradient(to top, #373737, #212121);
+  background: #00427f;
+  background: -moz-linear-gradient(top, #2980b9, #00427f);
+  background: -webkit-linear-gradient(top, #2980b9, #00427f);
+  background: -ms-linear-gradient(top, #2980b9, #00427f);
+  background: -o-linear-gradient(top, #2980b9, #00427f);
+  background: linear-gradient(to top, #2980b9, #00427f);
 }
 
 #header_wrap .inner {
@@ -351,8 +351,8 @@ Full-Width Styles
 
 #main_content_wrap {
   background: #f2f2f2;
-  border-top: 1px solid #111;
-  border-bottom: 1px solid #111;
+  border-top: 1px solid #2f3e44;
+  border-bottom: 1px solid #2f3e44;
 }
 
 #main_content {
@@ -360,7 +360,7 @@ Full-Width Styles
 }
 
 #footer_wrap {
-  background: #212121;
+  background: #2f3e44;
 }
 
 
