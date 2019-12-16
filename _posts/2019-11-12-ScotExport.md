@@ -44,4 +44,3 @@ display_date: 12th Dec 2019
 - Lots of people are aware of SDI and have had dealings with them
 - Many (but fewer than for SDI) have heard of Globalscot and some have had dealings
 
-<!--more-->
