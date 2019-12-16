@@ -22,7 +22,7 @@
         </div>
         <div class="timeline_body">
           <a href="{{ post.url }}">
-              {{ post.excerpt }}
+           {{ post.excerpt }}
           </a>
         </div>
         <!-- <span class="initials">{{ post.initials }}</span> -->
