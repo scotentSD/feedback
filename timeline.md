@@ -17,6 +17,7 @@
       <li class="timeline_card">
        <a href="{{ post.url }}">
         <div class="timeline_head {{post.type}}">
+          <a href="{{ post.url }}">{{ post.title }}</a>
           <div class="date_{{post.type}}" > {{ post.display_date }} </div>
           <!-- <br>  -->
           <div class="type_{{post.type}}" > </div>  
