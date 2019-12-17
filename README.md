@@ -11,8 +11,8 @@ We have added a very high level summary for each project to say what we Discover
 - International (TBC)
 
 ##Test of variables
-site url is: {{site.url}}
-baseurl is: {{baseurl}}
-page url is: {{page.url}}
+- site url is: {{site.url}}
+- baseurl is: {{baseurl}}
+- page url is: {{page.url}}
 
 
