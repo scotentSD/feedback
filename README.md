@@ -1,6 +1,4 @@
-# Feedback from customer feedback 
-
-## Thank you for helping
+# Thank you for helping
 
 We have talked to over 600 people this year across all our projects. 
 
