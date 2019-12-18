@@ -1,10 +1,10 @@
 # Thank you for helping
 
-We have talked to over 900 people this year across all our projects.
+We have talked to over 900 people this year across all our projects. 
 
 You have told us what help you need from us and helped us improve how we deliver support.
 
-We have added a very high level summary for each project to say what we Discovered or changed based on your feedback.
+We have added a very high level summary for each project to say what we Discovered or changed based on your feedback. 
 
 
 ## Broad generalisations from talking to lots of businesses
@@ -20,5 +20,12 @@ We have added a very high level summary for each project to say what we Discover
 - [Shared Entry Project](feedbackSEP.html)
 - International (TBC)
 
-## Timeline of activities
-- This is a [timeline](timeline) of what we did and when. 
+## Test of variables
+- site url is: {{site.url}}
+- Repo address is site url + repo name: {{site.url}}/{{site.github.repository_name }}
+- baseurl is: {{baseurl}}
+- page url is: {{page.url}}
+
+
+
+
