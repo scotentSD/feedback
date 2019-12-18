@@ -12,6 +12,8 @@
   <p><span style="background-color: #935300">&nbsp;&nbsp;&nbsp;&nbsp;</span> Partners collaboration - co-design</p>
 </div>
 
+
+
 <ul class="timeline_ul">
   {% for post in site.posts reversed %}
       <li class="timeline_card">
