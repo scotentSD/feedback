@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="https://scotentsd.github.io/resources/timeline.css?ver=15">
 <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 <section id="timeline">
-<h2>TEST PAGE Beta Timeline TEST PAGE</h2>
+<h2>Research Timeline</h2>
 <div class="colour_key">
   <p class="colour_key_heading">KEY</p>
   <p><span style="background-color: #f5c44b">&nbsp;&nbsp;&nbsp;&nbsp;</span> Accessibility</p>
@@ -26,7 +26,7 @@
         <div class="timeline_body">
 
            {{ post.excerpt }}
-   
+
         </div>
         <!-- <span class="initials">{{ post.initials }}</span> -->
      </li>
