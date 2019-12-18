@@ -1,5 +1,5 @@
 
-<link rel="stylesheet" href="https://scotentsd.github.io/resources/timeline.css?ver=16">
+<link rel="stylesheet" href="https://scotentsd.github.io/resources/timeline.css?ver=17">
 <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 <section id="timeline">
 <h2>Research Timeline</h2>
