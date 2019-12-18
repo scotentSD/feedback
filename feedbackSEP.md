@@ -7,13 +7,13 @@
 
 ## What we discovered and changed along the way
 - We adopted the url **Findbusinesssupport.gov.scot** because you told us: 
- - It says what is does
+ - **It says what is does**
  - A **.gov.scot** domain highlights that the site is Public Sector and trustworthy
-- We enlargted the Font size to make it easier to read
-- We added an animated progress indicator to make it more obvious that updates were occuring
-- The telephone number was addde to teh website as we were told it was needed on a trustworthy site
+- We enlarged the **Font size** to make it easier to read
+- We added an **animated progress indicator** to make it more obvious that updates were occuring
+- The **telephone number** was addde to the website as we were told it was needed on a trustworthy site
 - **Eligibility & Cost** were promoted to the top of listings in line with research findings.
-- A large programme of Accessibility improvements were implemented and this process continues
+- A large programme of **Accessibility** improvements were implemented and this process continues
 - We removed everything that customers said was **Not Needed**
 
  
