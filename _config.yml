@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: Customer Feedback
+description: How you are helping us help you
 excerpt_separator: "<!--more-->"
+baseurl: "/feedback"
