@@ -20,7 +20,6 @@
           <!-- <br>  -->
           <div class="type_{{post.type}}" > </div>  
         </div>
-       </a>
         <div class="timeline_body">
 
            {{ post.excerpt }}
