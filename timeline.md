@@ -13,6 +13,7 @@
 </div>
 
 
+
 <ul class="timeline_ul">
   {% for post in site.posts reversed %}
       <li class="timeline_card">
