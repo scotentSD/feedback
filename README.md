@@ -7,7 +7,7 @@ You have told us what help you need from us and helped us improve how we deliver
 We have added a very high level summary for each project to say what we Discovered or changed based on your feedback. 
 
 
-## Broad generealisations from talking to lots of businesses
+## Broad generalisations from talking to lots of businesses
 - They are very time poor.
 - The smaller they are, the more time poor they get
 - Smaller businesses tend to have individuals performimg multiple roles
