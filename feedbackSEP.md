@@ -2,7 +2,7 @@
 - The strongest feedback from customers is **Keep it simple**
 
 ## What you told us you need
-- A simple way of finding Business Support from across teh Public Sector in Scotland
+- A simple way of finding Business Support from across the Public Sector in Scotland
 - A simple way to start asking/applying for that support
 
 ## What we discovered and changed along the way
@@ -15,6 +15,3 @@
 - **Eligibility & Cost** were promoted to the top of listings in line with research findings.
 - A large programme of **Accessibility** improvements were implemented and this process continues
 - We removed everything that customers said was **Not Needed**
-
- 
-
