@@ -12,7 +12,9 @@ We have added a very high level summary for each project to say what we Discover
 
 ## Test of variables
 - site url is: {{site.url}}
+- Repo address is site url + repo name: {{site.url}}/{{site.github.repository_name }}
 - baseurl is: {{baseurl}}
 - page url is: {{page.url}}
+
 
 
