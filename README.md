@@ -23,5 +23,10 @@ We have added a very high level summary for each project to say what we Discover
 ## Timeline of activities
 - This is a [timeline](timeline) of what we did and when -  **`UNDER CONSTRUCTION`**
 
+<br>
+<p><strong>To contact us:</strong><p>
+<p><a href="mailto:CustomerResearch@scotent.co.uk?Subject=Contact%20via%20Design-in-the-open%20Customer%20feedback">CustomerResearch@scotent.co.uk</a></p>
+<br>
+
 <br><br>
 <div>Last updated: {{site.time | date_to_string}}</div>
