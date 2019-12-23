@@ -1,6 +1,6 @@
 # Thank you for helping
 
-We have talked to over 900 people this year across all our projects.
+In 2019, we have talked to over 900 people across all our projects.
 
 You have told us what help you need from us and helped us improve how we deliver support.
 
@@ -23,4 +23,5 @@ We have added a very high level summary for each project to say what we Discover
 ## Timeline of activities
 - This is a [timeline](timeline) of what we did and when. 
 
-
+<br><br>
+<div>Last updated: {{site.time | date_to_string}}</div>
