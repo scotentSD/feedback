@@ -17,11 +17,11 @@ We have added a very high level summary for each project to say what we Discover
 - Public sector jargon and service names is very confusing to most businesses
 
 ## Projects
-- [Shared Entry Project](feedbackSEP.html)
+- [Single Entry Point Project](feedbackSEP.html)
 - International (TBC)
 
 ## Timeline of activities
-- This is a [timeline](timeline) of what we did and when. 
+- This is a [timeline](timeline) of what we did and when `UNDER CONSTRUCTION`
 
 <br><br>
 <div>Last updated: {{site.time | date_to_string}}</div>
