@@ -21,7 +21,7 @@ We have added a very high level summary for each project to say what we Discover
 - International (TBC)
 
 ## Timeline of activities
-- This is a [timeline](timeline) of what we did and when `UNDER CONSTRUCTION`
+- This is a [timeline](timeline) of what we did and when -  **`UNDER CONSTRUCTION`**
 
 <br><br>
 <div>Last updated: {{site.time | date_to_string}}</div>
