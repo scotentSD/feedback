@@ -15,3 +15,6 @@
 - **Eligibility & Cost** were promoted to the top of listings in line with research findings.
 - A large programme of **Accessibility** improvements were implemented and this process continues
 - We removed everything that customers said was **Not Needed**
+
+<br><br>
+<div>Last updated: {{site.time | date_to_string}}</div>
