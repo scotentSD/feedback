@@ -1,10 +1,10 @@
-# Feedback for SEP
+# Feedback for FBS
 
-## What you have told us about the Single Entry Point service
+## What you have told us about the Find Business Support (FBS)
 - The strongest feedback from customers is **Keep it simple**
 
 ## What you told us you need
-- A simple way of finding Business Support from across the Public Sector in Scotland
+- A simple way of Finding Business Support from across the Public Sector in Scotland
 - A simple way to start asking/applying for that support
 
 ## What we discovered and changed along the way
