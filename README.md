@@ -17,7 +17,7 @@ We have added a very high level summary for each project to say what we Discover
 - Public sector jargon and service names is very confusing to most businesses
 
 ## Projects
-- [Single Entry Point Project](feedbackSEP.html)
+- [Find Business Support](feedbackSEP.html)
 - International (TBC)
 
 ## Timeline of activities
