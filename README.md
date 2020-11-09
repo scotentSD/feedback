@@ -1,6 +1,6 @@
 # Thank you for helping
 
-In 2019, we have talked to over 900 people across all our projects.
+In 2019, we have talked to over 900 people across all our projects. In 2020 we are talking to even more of you eventhough it is via Skype and other tools. 
 
 You have told us what help you need from us and helped us improve how we deliver support.
 
@@ -19,9 +19,6 @@ We have added a very high level summary for each project to say what we Discover
 ## Projects
 - [Find Business Support](feedbackSEP.html)
 - International (TBC)
-
-## Timeline of activities
-- This is a [timeline](timeline) of what we did and when -  **`UNDER CONSTRUCTION`**
 
 ## To contact us
 <p><a href="mailto:CustomerResearch@scotent.co.uk?Subject=Contact%20via%20Design-in-the-open%20Customer%20feedback">CustomerResearch@scotent.co.uk</a></p>
