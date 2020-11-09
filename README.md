@@ -1,6 +1,6 @@
 # Thank you for helping
 
-In 2019, we have talked to over 900 people across all our projects. In 2020 we are talking to even more of you eventhough it is via Skype and other tools. 
+In 2019, we have talked to over 900 people across all our projects. In 2020 we are talking to even more of you, even though it is via Skype and other tools. 
 
 You have told us what help you need from us and helped us improve how we deliver support.
 
